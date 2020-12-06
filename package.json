@@ -1,0 +1,22 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "A Graphql playground",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "start-dev": "npx nodemon server/server.js"
+  },
+  "author": "Brenda Chepkorir",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "apollo-server-express": "^2.19.0",
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
