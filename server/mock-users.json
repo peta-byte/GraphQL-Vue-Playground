@@ -1,0 +1,402 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Harley",
+                "last": "Kumar"
+            },
+            "location": {
+                "street": {
+                    "number": 4555,
+                    "name": "Flaxmere Ave"
+                },
+                "city": "Porirua",
+                "state": "Waikato",
+                "country": "New Zealand",
+                "postcode": 37542,
+                "coordinates": {
+                    "latitude": "67.9319",
+                    "longitude": "-42.7670"
+                },
+                "timezone": {
+                    "offset": "-8:00",
+                    "description": "Pacific Time (US & Canada)"
+                }
+            },
+            "email": "harley.kumar@example.com",
+            "login": {
+                "uuid": "66274ad4-a8d8-4ded-b70b-d417bd5fd062",
+                "username": "beautifulpanda868",
+                "password": "hooper",
+                "salt": "OH1GZ5YU",
+                "md5": "53c09db3c62453a28ec5af6172191ed0",
+                "sha1": "51296643b577c1eb3f2ac0235a9a0b96d7100a42",
+                "sha256": "68b7437d28950fe8409030e8c93bee3e793a37db29d375dc7eb1a017bdfcd9bb"
+            },
+            "dob": {
+                "date": "1960-08-06T22:24:55.140Z",
+                "age": 60
+            },
+            "registered": {
+                "date": "2004-01-31T18:28:41.843Z",
+                "age": 16
+            },
+            "phone": "(783)-980-4153",
+            "cell": "(471)-188-5658",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+            },
+            "nat": "NZ"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Jisse",
+                "last": "Warringa"
+            },
+            "location": {
+                "street": {
+                    "number": 2482,
+                    "name": "Boelhof"
+                },
+                "city": "Hulten",
+                "state": "Noord-Holland",
+                "country": "Netherlands",
+                "postcode": 64663,
+                "coordinates": {
+                    "latitude": "16.8758",
+                    "longitude": "-41.4657"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "jisse.warringa@example.com",
+            "login": {
+                "uuid": "7b22dc8a-9eb9-47f9-9326-990e1569d44a",
+                "username": "redpanda694",
+                "password": "corn",
+                "salt": "d6etxK1s",
+                "md5": "8a3a6592e241b916bf8c5c0b07a9a901",
+                "sha1": "3711a7b17e640f6ff1a06b6438dca05083ff304f",
+                "sha256": "585f8fa23b8352a5da835478063142eb885058eb5548b9317b982c3d4bb23f9a"
+            },
+            "dob": {
+                "date": "1955-02-24T08:25:04.283Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2002-08-14T01:48:47.983Z",
+                "age": 18
+            },
+            "phone": "(554)-961-3884",
+            "cell": "(442)-545-7077",
+            "id": {
+                "name": "BSN",
+                "value": "01408229"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/16.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+            },
+            "nat": "NL"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Deniz",
+                "last": "Atakol"
+            },
+            "location": {
+                "street": {
+                    "number": 4529,
+                    "name": "Doktorlar Cd"
+                },
+                "city": "Mersin",
+                "state": "İstanbul",
+                "country": "Turkey",
+                "postcode": 46950,
+                "coordinates": {
+                    "latitude": "36.9642",
+                    "longitude": "57.9175"
+                },
+                "timezone": {
+                    "offset": "+8:00",
+                    "description": "Beijing, Perth, Singapore, Hong Kong"
+                }
+            },
+            "email": "deniz.atakol@example.com",
+            "login": {
+                "uuid": "302886ea-25de-4767-b978-b0bb0270e44e",
+                "username": "browntiger740",
+                "password": "hunter",
+                "salt": "Xx9WwhcW",
+                "md5": "85fa7a7bed530dc4a3f3134ace7b837f",
+                "sha1": "1de2bb6fda756ddba28b66a08d5d0f4b52520b20",
+                "sha256": "59fa1338895383be2e8fab5b2452c3a8e69f698020186234c57437216afa878d"
+            },
+            "dob": {
+                "date": "1978-08-05T18:01:07.157Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2007-01-19T22:41:39.422Z",
+                "age": 13
+            },
+            "phone": "(823)-671-1402",
+            "cell": "(535)-096-0143",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/79.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Alan",
+                "last": "Hunter"
+            },
+            "location": {
+                "street": {
+                    "number": 6930,
+                    "name": "Station Road"
+                },
+                "city": "Letterkenny",
+                "state": "Wicklow",
+                "country": "Ireland",
+                "postcode": 70065,
+                "coordinates": {
+                    "latitude": "76.3088",
+                    "longitude": "9.6922"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "alan.hunter@example.com",
+            "login": {
+                "uuid": "41fd7266-6c6f-4c51-8c73-eba4dd35ab22",
+                "username": "redzebra519",
+                "password": "clint",
+                "salt": "QJsUiZYn",
+                "md5": "fecf9079188da4d5b0d6c078730476b9",
+                "sha1": "0748e1f4a853a3ce7d8514a9d3091f201b107c2f",
+                "sha256": "36ee90b28e8092b2ae117ef3c49f8312fa1823a47f25d54fb57560e9af8fd807"
+            },
+            "dob": {
+                "date": "1969-11-18T01:48:14.435Z",
+                "age": 51
+            },
+            "registered": {
+                "date": "2014-06-12T08:29:45.401Z",
+                "age": 6
+            },
+            "phone": "011-488-9872",
+            "cell": "081-993-7015",
+            "id": {
+                "name": "PPS",
+                "value": "9841408T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/63.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Aymeric",
+                "last": "Lucas"
+            },
+            "location": {
+                "street": {
+                    "number": 9476,
+                    "name": "Rue de la Baleine"
+                },
+                "city": "Avignon",
+                "state": "Moselle",
+                "country": "France",
+                "postcode": 63926,
+                "coordinates": {
+                    "latitude": "-2.0025",
+                    "longitude": "-162.5787"
+                },
+                "timezone": {
+                    "offset": "+9:30",
+                    "description": "Adelaide, Darwin"
+                }
+            },
+            "email": "aymeric.lucas@example.com",
+            "login": {
+                "uuid": "48591fa1-2759-4107-8bc8-fab94c2dd33b",
+                "username": "orangebird972",
+                "password": "loulou",
+                "salt": "zhVEJb1K",
+                "md5": "0ccfa86183f530fe3360d667f34b7af2",
+                "sha1": "002004d53d34b92430c90c2506352c1bdcf136e4",
+                "sha256": "ce9bc7bc33f3ca78c835b8eaa8eb7bc19788873f532c35740f6877270053087f"
+            },
+            "dob": {
+                "date": "1962-11-20T18:21:10.392Z",
+                "age": 58
+            },
+            "registered": {
+                "date": "2014-11-15T18:24:25.280Z",
+                "age": 6
+            },
+            "phone": "02-49-84-26-62",
+            "cell": "06-27-47-02-91",
+            "id": {
+                "name": "INSEE",
+                "value": "1NNaN89829607 61"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/99.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Kenneth",
+                "last": "Richardson"
+            },
+            "location": {
+                "street": {
+                    "number": 7601,
+                    "name": "Taylor St"
+                },
+                "city": "Port Macquarie",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 2135,
+                "coordinates": {
+                    "latitude": "87.5775",
+                    "longitude": "-12.1700"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "kenneth.richardson@example.com",
+            "login": {
+                "uuid": "7ba07dde-db3e-4f5c-919f-d7271d8419ef",
+                "username": "brownduck110",
+                "password": "howdy",
+                "salt": "4uzus85j",
+                "md5": "e12e453a8d46fbb43249ada9dc1b70ec",
+                "sha1": "30a69407eb08481bd8e03e11c9018224d01f1ef4",
+                "sha256": "cbb9c42199f274ea483ec21c0689798c51632798f93e9dc28435da850dce884b"
+            },
+            "dob": {
+                "date": "1997-02-24T05:21:24.294Z",
+                "age": 23
+            },
+            "registered": {
+                "date": "2018-07-30T02:45:46.322Z",
+                "age": 2
+            },
+            "phone": "04-6212-5112",
+            "cell": "0400-897-443",
+            "id": {
+                "name": "TFN",
+                "value": "879518553"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/35.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Nafula",
+                "last": "Cheptoo"
+            },
+            "location": {
+                "street": {
+                    "number": 3321,
+                    "name": "Calmeyers gate"
+                },
+                "city": "Stokmarknes",
+                "state": "Oppland",
+                "country": "Norway",
+                "postcode": "2435",
+                "coordinates": {
+                    "latitude": "54.8293",
+                    "longitude": "-127.0225"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "nafula.cheptoo@example.com",
+            "login": {
+                "uuid": "a8551c83-801d-4739-ac55-327e797ba36b",
+                "username": "test",
+                "password": "",
+                "salt": "",
+                "md5": "",
+                "sha1": "",
+                "sha256": ""
+            },
+            "dob": {
+                "date": "1951-07-02T01:22:16.094Z",
+                "age": 69
+            },
+            "registered": {
+                "date": "2010-02-03T11:08:55.901Z",
+                "age": 10
+            },
+            "phone": "55476237",
+            "cell": "42403882",
+            "id": {
+                "name": "FN",
+                "value": "02075130735"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/93.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+            },
+            "nat": "NO"
+        }
+    ],
+    "info": {
+        "seed": "7d8a5d7224670337",
+        "results": 6,
+        "page": 1,
+        "version": "1.3"
+    }
+}
