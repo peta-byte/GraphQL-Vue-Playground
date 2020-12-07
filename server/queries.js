@@ -67,9 +67,6 @@ exports = {
     `,
     mergedDemographics: `
     query getUsersMergedDemographics {
-        code
-        success
-        message
         nationalities {
            code
            message
