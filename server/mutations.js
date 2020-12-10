@@ -1,4 +1,4 @@
-exports = {
+exports.mutations = {
   addUser: `
     mutation addUser {
       addUser(gender: "female", name: "Adhis Wanjiru", email: "adhis.wanjiru@testuser.com") {
