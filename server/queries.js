@@ -1,10 +1,10 @@
-exports = {
+exports.queries = {
     user: `
     query getUser {
-        code
-        message
-        success
         user {
+            code
+            message
+            success
             user {
                 gender
                 name {
