@@ -1,13 +1,14 @@
-const { ApolloServer } = require('apollo-server');
 const { typeDefinitions } = require('./typeDefinitions');
 const { resolvers } = require('./resolvers');
+const { ApolloServer } = require('apollo-server');
 
-const server = new ApolloServer({ typeDefs: typeDefinitions, resolvers });
+const serverPort = process.env.PORT || 3000;
+
+// set playground to 'true' to test queries & mutations from http://localhost:3000/graphql
+const server = new ApolloServer({ typeDefs: typeDefinitions, resolvers, playground: false });
 const graphqlPath = server.graphqlPath;
-let PORT;
-let URL;
 
-server.listen().then(({ url, port }) => {
-  PORT = port;
-  URL = url;
+server.listen(serverPort).then(({ url }) => {
+  console.log(`Server ready at ${url}`);
 });
+

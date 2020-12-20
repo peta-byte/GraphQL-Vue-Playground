@@ -30,6 +30,9 @@ exports.queries = {
                     last
                 }
                 email
+                picture {
+                    large
+                }
             }
         }
     }

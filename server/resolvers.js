@@ -64,7 +64,7 @@ exports.resolvers = {
       let users = [];
       return axios({
         method: 'get',
-        url: apiURL + '&results=5',
+        url: apiURL + '&results=6',
         responseType: 'json'
       })
         .then((res) => {
