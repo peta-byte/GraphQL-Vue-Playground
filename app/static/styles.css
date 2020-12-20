@@ -1,0 +1,46 @@
+body {
+    display: block;
+    background-color: #eafffd !important;
+    min-width: 280px;
+    min-height: 100vh !important;
+}
+#users {
+    display: flex;
+    flex-direction: row;
+    overflow: visible;
+    flex-wrap: wrap;
+}
+main {
+    text-align: center;
+    min-height: 90vh;
+    padding: 5px;
+}
+#cards {
+    margin: 10px auto;
+}
+.card {
+    margin: 10px auto;
+    width: 30%;
+    min-width: 280px !important;
+    max-width: 280px !important;
+}
+header {
+    text-align: center;
+    padding: 5px;
+    background-color:#005248 !important;
+    color: #fff;
+}
+.h1 {
+    margin: 15px auto !important;
+    color:#00a591;
+}
+footer {
+    background-color:#005248 !important;
+    color: #fff;
+    width: 100%;
+    min-height: 100px;
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 0 !important;
+}
