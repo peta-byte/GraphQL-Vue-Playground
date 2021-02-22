@@ -1,6 +1,6 @@
 # GraphQL-Vue-Playground
 
-![Sample App Snippet](https://github.com/peta-byte/GraphQL-Vue-Playground/blob/main/app/static/playground%20image%201.png?raw=true)
+![Sample App Snippet](https://user-images.githubusercontent.com/40006302/108780703-6d710180-752e-11eb-9e7f-10b0ee807969.png)
 
 ### Data Sources:
 User data API: [Random User Generator](https://randomuser.me/)
